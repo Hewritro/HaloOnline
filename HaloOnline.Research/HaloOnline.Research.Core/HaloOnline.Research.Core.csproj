@@ -66,7 +66,6 @@
     <Compile Include="Runtime\ProcessMemoryStream.cs" />
     <Compile Include="Runtime\Tag.cs" />
     <Compile Include="Runtime\TagCache.cs" />
-    <Compile Include="Runtime\TagClass.cs" />
     <Compile Include="Utilities\DefaultDictionary.cs" />
     <Compile Include="Runtime\GameVersion.cs" />
     <Compile Include="Utilities\ProcessAddress.cs" />
